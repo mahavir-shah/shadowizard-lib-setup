@@ -1,0 +1,23 @@
+{
+  "name": "shadowizardlib",
+  "version": "1.0.0",
+  "description": "Add shadow effect for non desinger ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahavir-shah/shadowizard-lib-setup.git"
+  },
+  "keywords": [
+    "shadow",
+    "design"
+  ],
+  "author": "mahavir s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahavir-shah/shadowizard-lib-setup/issues"
+  },
+  "homepage": "https://github.com/mahavir-shah/shadowizard-lib-setup#readme"
+}
